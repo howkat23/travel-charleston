@@ -31,7 +31,7 @@ return(
         </div>
 
       <div className='container'>
-        <img src={image} width="500px"/>
+        <img src={image} width="500px" alt="Charleston"/>
       </div>
 
       <div className='container'>
